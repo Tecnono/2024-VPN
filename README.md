@@ -13,12 +13,12 @@
 ## ❤2024 年好用的 SS/SSR/V2ray/Trojan 翻墙机场节点加速器推荐💚
 经过测速评价精选好用的翻墙机场服务商，提供 Shadowsocks、ShadowsocksR、Vmess、Vless（Reality）、Trojan、Hysteria 多种协议，支援 Clash、Shadowrocket（小火箭）、Stash（Clash for iOS）、Quantumult X（圈叉）、Surge、V2rayN、sing-box 等多种流行的翻墙客户端。下面并非机场排名，可以根据翻墙机场特点、价格等因素选择自己最中意的，建议购买月付套餐，满意之后再决定是否购买更长时间套餐。
 
-### 飞机云机场-2024稳定便宜的梯子首选  
+### 尔湾云机场-2024稳定便宜的梯子首选  
 
-![飞机大.jpg](https://s2.loli.net/2023/11/06/AlBNYHUXWwbPny3.jpg)  
+![尔湾云机场](https://github.com/user-attachments/assets/3e25321b-22fc-4d0b-b1de-a15050b127de)
 
-[**官方网站注册**](https://go.51tz.cc/fjcloud)  
-1. 基础套餐只要10元/月，简直就是半公益机场；
+[**官方网站注册**](https://go.1vpn.cc/ewan)  
+1. 基础套餐只要11元/月，简直就是半公益机场；
 2. 提供丰富的套餐配置选择，满足大部分科学上网者不同的应用场景需求；
 3. 所有节点都能稳定解锁奈飞NetFlix/HULU/HBO/TVB/动画疯等国外流媒体视频；
 4. 支持解锁ChatGPT、Tiktok等常用网站；
@@ -31,7 +31,7 @@
 
 ![奈絲韻.jpg](https://s2.loli.net/2023/11/21/dFAnPqGciwMJo9W.jpg)  
 
-[**官方网站注册**](https://go.51tz.cc/nicecloud)  
+[**官方网站注册**](https://go.1vpn.cc/nisi)  
 1. 基础套餐12元/月；
 2. 年付套餐免费赠送ChatGPT账号，发工单给客服秒回；
 3. 流量充足，价格便宜，线路节点档次分明，提供不限时流量套餐；
@@ -44,7 +44,7 @@
 
 ![蘇雲.jpg](https://s2.loli.net/2023/10/21/YpgLNOcKoenB6G3.jpg)  
 
-[**官方网站注册**](https://suyunti2.com/auth/register?code=ASdE)  
+[**官方网站注册**](https://go.1vpn.cc/suyu)  
 1. 老牌高端机场，基础套餐18.99元/月；
 2. 流量吃到饱，套餐档次分明，丰俭由人；
 3. 支持主流客户端SSR/V2Ray订阅链接；
