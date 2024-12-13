@@ -15,7 +15,7 @@
 
 ### 尔湾云机场-2025稳定便宜的梯子首选  
 
-![尔湾云机场](https://github.com/user-attachments/assets/3e25321b-22fc-4d0b-b1de-a15050b127de)
+![尔湾云机场](https://www.cnvintage.org/assets/files/2024-12-13/1734066601-657630-image.png)
 
 [**官方网站注册**](https://go.1vpn.cc/ewan)  
 1. 基础套餐只要11元/月，简直就是半公益机场；
